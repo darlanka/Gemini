@@ -1,2 +1,8 @@
-# Gemini
- The Gemini clone is an advanced, feature-rich application designed to replicate and enhance the functionalities of the original Gemini protocol, offering a secure, lightweight, and user-friendly browsing experience optimized for minimalistic and content-focused web navigation.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
